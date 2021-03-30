@@ -1,0 +1,142 @@
+$VAR1 = {
+          'chrom' => 'qpac010tig00000175len=540389',
+          'cons' => {},
+          'end' => 100000,
+          'start' => 0
+        };
+$VAR2 = {
+          'chrom' => 'qpac010tig00000175len=540389',
+          'cons' => {
+                      'VVvVVVVVVVVVVVvVvVvVVVVVVVvVVVVVVVVVVvVvVvVVVNvVVV' => 3,
+                      'vNNNNvNVNvvVvNNNNNNNNNNN.vNVNNNNvNNNNNNNNvNVNNNVNN' => 3,
+                      'NNNvvNvNvNNNNNNvNvNNvNVNNNNNNvVvvvVVNvVNNNNNNNNNvV' => 10,
+                      'VVvVVVVVVvVVVVvVvVNVVVVVVVvVVVVVVNVVVvVvvvVVVvvVVV' => 6,
+                      'NNNNvNNNNNNNNVvVNVNNvNVNNNNNNvVvNNVVNvNNNNNNNNNNVV' => 7,
+                      'NNNvVNvNvNNNNVvVNVNNvNVNNNNNNvVVvvVVNvvNNNNNNNNNvv' => 8
+                    },
+          'end' => 200000,
+          'start' => 100000
+        };
+$VAR3 = {
+          'chrom' => 'qpac010tig00000175len=540389',
+          'cons' => {
+                      'VVNNNvNvNvVVvNNNNNNNNNNVVVNVNNNNvNNNvNNNNvNvVNNVNN' => 14,
+                      'VVvVVVVVVvVVVVvVvVNVVVVVVVvVVVVVVvVVVvVvvvVVVvNVVV' => 50,
+                      'NNNNvNNNNNNNNvvvNVNNvNVNNNNNNVVVNNVVNvNNNNNNNNNNVV' => 7,
+                      'NNNvVNVNvNNNNVvVNVNNvNVNNNNNNVVvvNVVNvVNNNNNNNNNvV' => 25
+                    },
+          'end' => 300000,
+          'start' => 200000
+        };
+$VAR4 = {
+          'chrom' => 'qpac010tig00000175len=540389',
+          'cons' => {
+                      'NNNVvNvNVNNNNVvVNVNNvNVNNNNNNNVvvNVVNvvNNNNNNNNNVV' => 12,
+                      'VNVVVVVVVvVVVVvVNVNNvNVNNVNVNVVVVVVVNvVNVVNVNNVNVV' => 24,
+                      'NNNVVNVNVNNNNvvVNVNNvNVNNNNNNNvvvNvvNvvNNNNNNNNNVV' => 41,
+                      'vVNNNVNVNvVVVNNNNNNNNNNVVvNVNNNNvNNNvNNNNvNvVNNvNN' => 12
+                    },
+          'end' => 400000,
+          'start' => 300000
+        };
+$VAR5 = {
+          'chrom' => 'qpac010tig00000175len=540389',
+          'cons' => {
+                      'VVVNNVNVNVVVVNNNVNVVvVNVVVVVVVNNVVNNVvNVVVVVVNVVNN' => 4,
+                      'vNNNNVNvNNVvvNNNvNNNNNNNNvNVNNNNvNNNNNNNvvNvNNNVNN' => 3,
+                      'VNvNNVNVNvVVVNNNNNNNNNNNNVNVNvNNvVNNNNNNVVNvNNVNNN' => 8,
+                      'NNNvVNvNvNNNNvvvNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv' => 103,
+                      'NNNVVNVNVNNNNVvVNVNNvNVNNNNNNNVVvNVVNvVNNNNNNNNNVV' => 44,
+                      'NvNNNNNNNNNNNN.NNNNVvVNVvNvNVvNNNNNNvvNNNNvNvNNNNN' => 3,
+                      'VvVVVVVVVvVVVVvVvVNNvNVvNVNVvVVVVVVVNvVvVVNVNNVNVV' => 9
+                    },
+          'end' => 500000,
+          'start' => 400000
+        };
+$VAR6 = {
+          'chrom' => 'qpac010tig00000175len=540389',
+          'cons' => {
+                      'NNNVVNVNVNNNNvVvNVNNvNVNNNNNNNVvvNVVNvVNNNNNNNNNVV' => 9,
+                      'NNNvvNvNvNNNNvvvNVNNNNVNNNNNNNvNvNNNNNVNNNNNNNNNNV' => 58,
+                      'VVVNNVNVNVVVVNNNVNVVvVNVVVVVVVNNvVNNVvNVVVVVVNVVNN' => 4
+                    },
+          'end' => 600000,
+          'start' => 500000
+        };
+$VAR7 = {
+          'chrom' => 'qpac010tig00005444len=60711',
+          'cons' => {
+                      'NNNVVNvNvNNNNVvvNVNNvNVNNNNNNVVvvNVNNvVNNNNNNNNNvV' => 4
+                    },
+          'end' => 100000,
+          'start' => 0
+        };
+$VAR8 = {
+          'chrom' => 'qpac010tig00005445len=129041',
+          'cons' => {
+                      'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV' => 43,
+                      'NvNNNNNNNNNNNNNNNNNVvvNNNNvNvNNNNNNvvvNNNNVNvNNNvN' => 5
+                    },
+          'end' => 100000,
+          'start' => 0
+        };
+$VAR9 = {
+          'chrom' => 'qpac010tig00005445len=129041',
+          'cons' => {
+                      'NNNVvNvNVNNNNvvVNVNNvNVNNNNNNvVvvNVNNNVNNNNNNNNNvV' => 11
+                    },
+          'end' => 200000,
+          'start' => 100000
+        };
+$VAR10 = {
+           'chrom' => 'qpac010tig00005764len=450333',
+           'cons' => {
+                       'NNNVVNvNVNNNNvvVNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv' => 7,
+                       'VNVNNVNVNVvVVNNNVNVNNNNNNVvVNNNNvVNNNNNVVVNVNNVVNN' => 11,
+                       'NNNVVNvNvNNNNvvVNVNNvNVNNNNNNNvvvNVVNvVNNNNNNNNNVv' => 53,
+                       'NNNNNNNNNNNNNNNNNNNVvVNVNNvNvvNNNNNNvNNNNNvNvNNNNN' => 8
+                     },
+           'end' => 100000,
+           'start' => 0
+         };
+$VAR11 = {
+           'chrom' => 'qpac010tig00005764len=450333',
+           'cons' => {
+                       'VvvVvVvVVvVVVNvvVNVVVVNVvVVVVVvVVVVVVVVVVVVVVNvVVv' => 12,
+                       'vNvNvvv.NvvvVNvNVNVVvVNNNVVVVNNNvVNNV.NVv.vvVNN.NN' => 3,
+                       'VvNVvVvVVvVVVvvvVNVVVVNVNVVVVVNVVVVVVVVVVVVVVvvVVv' => 4,
+                       'VvVVVVVVVVVVVVVVVVVVVVVVvVVVVvVVVVVVVVVVVVVVVNVVVV' => 9,
+                       'VNvVvVvVVvVVVvvNVNVVVVvVvVVVVVNVVVVVVVVVVvVVVNvVVN' => 7,
+                       'vNNNNVNVNvVvVNvNVNVVvVNNNVVVVNNNNVNNVvNvVNvvVNNvNN' => 5,
+                       'NNNNNNNNNNNNNNNNNNNVvVNvNNvNvNNNNNNNvNNNNNvNvNNNNN' => 8
+                     },
+           'end' => 200000,
+           'start' => 100000
+         };
+$VAR12 = {
+           'chrom' => 'qpac010tig00005764len=450333',
+           'cons' => {
+                       'NNNNNNNNNNNNNNNNNNNVvvNVNNvNvNNNNNNvvvNNNNvNvNNNvN' => 10,
+                       'NNNNvNVNNNNNNNNvNVNNvNVNNNNNNNvvNNVNNvNNNNNNNNNNvv' => 9,
+                       'NNNNvNNNNNNNNNvNNVNNvNvvNNNNNvVVNNvNNvNNNNNNNNNNvv' => 8,
+                       'NNNNvNNNNNNNNNNNNVNNvNVNNNNNNNvVNNvNNvNNNNNNNNNNvv' => 18
+                     },
+           'end' => 300000,
+           'start' => 200000
+         };
+$VAR13 = {
+           'chrom' => 'qpac010tig00005764len=450333',
+           'cons' => {
+                       'NNNvVNVNvNNNNvvvNVNNvNVNNNNNNVVvvNVNNvvNNNNNNNNNvV' => 26,
+                       'NvNNNNNNNNNNNNNNNNNVvVNNNNvNvNNNNNNvvNNNNNVNNNNNvN' => 5,
+                       'NNvNNNVNvNNNNvvvNNNNNNVNNNNNNvNNNNvNNNNNNNNNNNNNNv' => 6
+                     },
+           'end' => 400000,
+           'start' => 300000
+         };
+$VAR14 = {
+           'chrom' => 'qpac010tig00005764len=450333',
+           'cons' => {},
+           'end' => 500000,
+           'start' => 400000
+         };

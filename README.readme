@@ -1,0 +1,58 @@
+# RUNNING HAPLOPATH #
+
+To see the help of haplopath_connect.pl:
+>perl haplopath_connect.pl --help
+
+To run haplopath_connect.pl with the test data:
+First unpack the .gz test_data/sample.test.vcf.gz (gzip -dc).
+
+>perl haplopath_connect.pl --buildblock --cleanblock --buildlink --threads 30 --file test_data/sample.test.vcf
+
+You can only run the script within this folder because the functions in Pattsfunc.pm are indicated to be found 
+in the path 'code_varpat/' (line 5). If you wish to execute it from somewhere else, change this path.
+
+To see the results expected from this run, look into the folder test_results/.
+You can browse the found relations (called links within the script and the output) by looking into the file links*hps.
+'hps' stands for human perl script (output of dump from the Dumper package).
+'bps' stands for binary perl script and will be used as input in the following step.
+
+You can see the intermediate steps before the relations files (links*) which are the raw fingerprints (block*) and the
+curated fingerprints, as well as the occurence of variation patterns throughout the vcf. The name of the output contains
+the timestamp from when it was generated. The stderr will detail the major steps of the script, you can save it by
+redirecting it with '&> out.stderr'
+
+# FILTERING RELATIONS/LINKS #
+
+Once the relations found within the vcf file, to filter sufficiently supported ones, use haplopath_validator.pl:
+>perl haplopath_validator.pl --help
+>perl haplopath_validator.pl --file test_output/links_unset_unset_6_10_2020_12_33_18.bps --jaccard 0.1
+
+The output should be (contig1, contig2, average Jaccard index, number of relations, most abundant orientation):
+
+qpac010tig00005444len=60711 qpac010tig00005445len=129041 0.947916666666667 2 hh
+qpac010tig00005445len=129041 qpac010tig00005764len=450333 0.621668261990843 3 hh
+qpac010tig00000175len=540389 qpac010tig00005445len=129041 0.549448830713748 4 na
+qpac010tig00005444len=60711 qpac010tig00005764len=450333 0.702702702702703 1 na
+qpac010tig00000175len=540389 qpac010tig00005764len=450333 0.604737448370188 4 na
+
+# VISUALIZING RELATIONS
+The output of haplopath_validator.pl can be used as input for haplopath_viz.pl in order to visualize the relations obtained.
+haplopath_viz.pl is used as follows:
+>perl haplopath_viz.pl --help
+>perl haplopath_viz.pl --file test_output/validator.out --jaccard 0.1 --exclude exclude.list --start qpac010tig00005444len=60711
+
+The exclude.list should contain any contig ID that you wish to exclude (for example contigs with known misassemblies).
+The starting contig for building the graph is passed with --start. All contigs directly or indirectly related to the starting contig
+will appear in the graph. 
+
+The graph is in dot langage and can be simply passed to neato or dot interpreter to make a pdf or a png, as follows:
+>perl haplopath_viz.pl  --file test_output/validator.out --jaccard 0.1 --exclude exclude.list --start qpac010tig00005444len=60711 | dot -n -Tpng > sample_graph.png
+
+You can find the png of the test data in test_output/.
+
+
+########
+For questions email alexandrina.bodrug@boku.ac.at
+14.10.2020
+
+

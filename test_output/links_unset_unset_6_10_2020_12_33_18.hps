@@ -1,0 +1,905 @@
+$VAR1 = {
+          'link' => [],
+          'linkocc' => 0,
+          'chrom' => 'qpac010tig00000175len=540389',
+          'start' => '0',
+          'end' => '100000',
+          'cons' => {}
+        };
+$VAR2 = {
+          'link' => [
+                      {
+                        'lforce' => [
+                                      {
+                                        'VVvVVVVVVvVVVVvVvVNVVVVVVVvVVVVVVNVVVvVvvvVVVvvVVV::6' => 'VVvVVVVVVvVVVVvVvVNVVVVVVVvVVVVVVvVVVvVvvvVVVvNVVV::50',
+                                        'NNNvVNvNvNNNNVvVNVNNvNVNNNNNNvVVvvVVNvvNNNNNNNNNvv::8' => 'NNNNvNNNNNNNNvvvNVNNvNVNNNNNNVVVNNVVNvNNNNNNNNNNVV::7'
+                                      }
+                                    ],
+                        'lend' => 300000,
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => 200000,
+                        'jaccardi' => '0.539796529024536'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNvVNvNvNNNNVvVNVNNvNVNNNNNNvVVvvVVNvvNNNNNNNNNvv::8' => 'NNNVvNvNVNNNNVvVNVNNvNVNNNNNNNVvvNVVNvvNNNNNNNNNVV::12'
+                                      }
+                                    ],
+                        'lend' => 400000,
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => 300000,
+                        'jaccardi' => '0.334253054789121'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNvVNvNvNNNNVvVNVNNvNVNNNNNNvVVvvVVNvvNNNNNNNNNvv::8' => 'NNNVVNVNVNNNNVvVNVNNvNVNNNNNNNVVvNVVNvVNNNNNNNNNVV::44',
+                                        'vNNNNvNVNvvVvNNNNNNNNNNN.vNVNNNNvNNNNNNNNvNVNNNVNN::3' => 'vNNNNVNvNNVvvNNNvNNNNNNNNvNVNNNNvNNNNNNNvvNvNNNVNN::3'
+                                      }
+                                    ],
+                        'lend' => 500000,
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => 400000,
+                        'jaccardi' => '0.164859693877551'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNvVNvNvNNNNVvVNVNNvNVNNNNNNvVVvvVVNvvNNNNNNNNNvv::8' => 'NNNVVNVNVNNNNvVvNVNNvNVNNNNNNNVvvNVVNvVNNNNNNNNNVV::9'
+                                      }
+                                    ],
+                        'lend' => 600000,
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => 500000,
+                        'jaccardi' => '0.0868516284680338'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNvvNvNvNNNNNNvNvNNvNVNNNNNNvVvvvVVNvVNNNNNNNNNvV::10' => 'NNNVVNvNvNNNNvvVNVNNvNVNNNNNNNvvvNVVNvVNNNNNNNNNVv::53'
+                                      }
+                                    ],
+                        'lend' => 100000,
+                        'lchrom' => 'qpac010tig00005764len=450333',
+                        'lstart' => 0,
+                        'jaccardi' => '0.238631247185952'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'VVvVVVVVVVVVVVvVvVvVVVVVVVvVVVVVVVVVVvVvVvVVVNvVVV::3' => 'VvVVVVVVVVVVVVVVVVVVVVVVvVVVVvVVVVVVVVVVVVVVVNVVVV::9'
+                                      }
+                                    ],
+                        'lend' => 200000,
+                        'lchrom' => 'qpac010tig00005764len=450333',
+                        'lstart' => 100000,
+                        'jaccardi' => '0.06'
+                      }
+                    ],
+          'linkocc' => 6,
+          'chrom' => 'qpac010tig00000175len=540389',
+          'start' => '100000',
+          'end' => '200000',
+          'cons' => {
+                      'VVvVVVVVVVVVVVvVvVvVVVVVVVvVVVVVVVVVVvVvVvVVVNvVVV' => 3,
+                      'NNNvvNvNvNNNNNNvNvNNvNVNNNNNNvVvvvVVNvVNNNNNNNNNvV' => 10,
+                      'vNNNNvNVNvvVvNNNNNNNNNNN.vNVNNNNvNNNNNNNNvNVNNNVNN' => 3,
+                      'VVvVVVVVVvVVVVvVvVNVVVVVVVvVVVVVVNVVVvVvvvVVVvvVVV' => 6,
+                      'NNNNvNNNNNNNNVvVNVNNvNVNNNNNNvVvNNVVNvNNNNNNNNNNVV' => 7,
+                      'NNNvVNvNvNNNNVvVNVNNvNVNNNNNNvVVvvVVNvvNNNNNNNNNvv' => 8
+                    }
+        };
+$VAR3 = {
+          'link' => [
+                      {
+                        'lforce' => [
+                                      {
+                                        'VvVVVVVVVVVVVVVVVVVVVVVVvVVVVvVVVVVVVVVVVVVVVNVVVV::9' => 'VVvVVVVVVVVVVVvVvVvVVVVVVVvVVVVVVVVVVvVvVvVVVNvVVV::3'
+                                      }
+                                    ],
+                        'lend' => '200000',
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => '100000',
+                        'jaccardi' => '0.06'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNNNNNNNNNNNNNNNNNVvVNvNNvNvNNNNNNNvNNNNNvNvNNNNN::8' => 'NvNNNNNNNNNNNN.NNNNVvVNVvNvNVvNNNNNNvvNNNNvNvNNNNN::3'
+                                      }
+                                    ],
+                        'lend' => '500000',
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => '400000',
+                        'jaccardi' => '0.0158730158730159'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNNNNNNNNNNNNNNNNNVvVNvNNvNvNNNNNNNvNNNNNvNvNNNNN::8' => 'NvNNNNNNNNNNNNNNNNNVvvNNNNvNvNNNNNNvvvNNNNVNvNNNvN::5'
+                                      }
+                                    ],
+                        'lend' => '100000',
+                        'lchrom' => 'qpac010tig00005445len=129041',
+                        'lstart' => '0',
+                        'jaccardi' => '0.0684931506849315'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNNNNNNNNNNNNNNNNNVvVNvNNvNvNNNNNNNvNNNNNvNvNNNNN::8' => 'NNNNNNNNNNNNNNNNNNNVvVNVNNvNvvNNNNNNvNNNNNvNvNNNNN::8'
+                                      }
+                                    ],
+                        'lend' => '100000',
+                        'lchrom' => 'qpac010tig00005764len=450333',
+                        'lstart' => '0',
+                        'jaccardi' => '0.0672268907563025'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNNNNNNNNNNNNNNNNNVvVNvNNvNvNNNNNNNvNNNNNvNvNNNNN::8' => 'NNNNNNNNNNNNNNNNNNNVvvNVNNvNvNNNNNNvvvNNNNvNvNNNvN::10'
+                                      }
+                                    ],
+                        'lend' => 300000,
+                        'lchrom' => 'qpac010tig00005764len=450333',
+                        'lstart' => 200000,
+                        'jaccardi' => '0.105263157894737'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNNNNNNNNNNNNNNNNNVvVNvNNvNvNNNNNNNvNNNNNvNvNNNNN::8' => 'NvNNNNNNNNNNNNNNNNNVvVNNNNvNvNNNNNNvvNNNNNVNNNNNvN::5'
+                                      }
+                                    ],
+                        'lend' => 400000,
+                        'lchrom' => 'qpac010tig00005764len=450333',
+                        'lstart' => 300000,
+                        'jaccardi' => '0.0806451612903226'
+                      }
+                    ],
+          'linkocc' => 6,
+          'chrom' => 'qpac010tig00005764len=450333',
+          'start' => '100000',
+          'end' => '200000',
+          'cons' => {
+                      'vNvNvvv.NvvvVNvNVNVVvVNNNVVVVNNNvVNNV.NVv.vvVNN.NN' => 3,
+                      'VvvVvVvVVvVVVNvvVNVVVVNVvVVVVVvVVVVVVVVVVVVVVNvVVv' => 12,
+                      'VvNVvVvVVvVVVvvvVNVVVVNVNVVVVVNVVVVVVVVVVVVVVvvVVv' => 4,
+                      'VvVVVVVVVVVVVVVVVVVVVVVVvVVVVvVVVVVVVVVVVVVVVNVVVV' => 9,
+                      'VNvVvVvVVvVVVvvNVNVVVVvVvVVVVVNVVVVVVVVVVvVVVNvVVN' => 7,
+                      'vNNNNVNVNvVvVNvNVNVVvVNNNVVVVNNNNVNNVvNvVNvvVNNvNN' => 5,
+                      'NNNNNNNNNNNNNNNNNNNVvVNvNNvNvNNNNNNNvNNNNNvNvNNNNN' => 8
+                    }
+        };
+$VAR4 = {
+          'link' => [
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNNNNNNNNNNNNNNNNNVvvNVNNvNvNNNNNNvvvNNNNvNvNNNvN::10' => 'NvNNNNNNNNNNNN.NNNNVvVNVvNvNVvNNNNNNvvNNNNvNvNNNNN::3'
+                                      }
+                                    ],
+                        'lend' => '500000',
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => '400000',
+                        'jaccardi' => '0.016260162601626'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNNvNVNNNNNNNNvNVNNvNVNNNNNNNvvNNVNNvNNNNNNNNNNvv::9' => 'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43'
+                                      }
+                                    ],
+                        'lend' => '100000',
+                        'lchrom' => 'qpac010tig00005445len=129041',
+                        'lstart' => '0',
+                        'jaccardi' => '0.195454545454545'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNNNNNNNNNNNNNNNNNVvvNVNNvNvNNNNNNvvvNNNNvNvNNNvN::10' => 'NNNNNNNNNNNNNNNNNNNVvVNVNNvNvvNNNNNNvNNNNNvNvNNNNN::8'
+                                      }
+                                    ],
+                        'lend' => '100000',
+                        'lchrom' => 'qpac010tig00005764len=450333',
+                        'lstart' => '0',
+                        'jaccardi' => '0.0747663551401869'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNNNNNNNNNNNNNNNNNVvvNVNNvNvNNNNNNvvvNNNNvNvNNNvN::10' => 'NNNNNNNNNNNNNNNNNNNVvVNvNNvNvNNNNNNNvNNNNNvNvNNNNN::8'
+                                      }
+                                    ],
+                        'lend' => '200000',
+                        'lchrom' => 'qpac010tig00005764len=450333',
+                        'lstart' => '100000',
+                        'jaccardi' => '0.105263157894737'
+                      }
+                    ],
+          'linkocc' => 4,
+          'chrom' => 'qpac010tig00005764len=450333',
+          'start' => '200000',
+          'end' => '300000',
+          'cons' => {
+                      'NNNNNNNNNNNNNNNNNNNVvvNVNNvNvNNNNNNvvvNNNNvNvNNNvN' => 10,
+                      'NNNNvNNNNNNNNNvNNVNNvNvvNNNNNvVVNNvNNvNNNNNNNNNNvv' => 8,
+                      'NNNNvNVNNNNNNNNvNVNNvNVNNNNNNNvvNNVNNvNNNNNNNNNNvv' => 9,
+                      'NNNNvNNNNNNNNNNNNVNNvNVNNNNNNNvVNNvNNvNNNNNNNNNNvv' => 18
+                    }
+        };
+$VAR5 = {
+          'link' => [
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNvVNVNvNNNNvvvNVNNvNVNNNNNNVVvvNVNNvvNNNNNNNNNvV::26' => 'NNNVVNvNvNNNNVvvNVNNvNVNNNNNNVVvvNVNNvVNNNNNNNNNvV::4'
+                                      }
+                                    ],
+                        'lend' => '100000',
+                        'lchrom' => 'qpac010tig00005444len=60711',
+                        'lstart' => '0',
+                        'jaccardi' => '0.702702702702703'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NvNNNNNNNNNNNNNNNNNVvVNNNNvNvNNNNNNvvNNNNNVNNNNNvN::5' => 'NvNNNNNNNNNNNNNNNNNVvvNNNNvNvNNNNNNvvvNNNNVNvNNNvN::5',
+                                        'NNNvVNVNvNNNNvvvNVNNvNVNNNNNNVVvvNVNNvvNNNNNNNNNvV::26' => 'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43'
+                                      }
+                                    ],
+                        'lend' => '100000',
+                        'lchrom' => 'qpac010tig00005445len=129041',
+                        'lstart' => '0',
+                        'jaccardi' => '0.837837837837838'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNvVNVNvNNNNvvvNVNNvNVNNNNNNVVvvNVNNvvNNNNNNNNNvV::26' => 'NNNVvNvNVNNNNvvVNVNNvNVNNNNNNvVvvNVNNNVNNNNNNNNNvV::11'
+                                      }
+                                    ],
+                        'lend' => '200000',
+                        'lchrom' => 'qpac010tig00005445len=129041',
+                        'lstart' => '100000',
+                        'jaccardi' => '0.702702702702703'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NvNNNNNNNNNNNNNNNNNVvVNNNNvNvNNNNNNvvNNNNNVNNNNNvN::5' => 'NNNNNNNNNNNNNNNNNNNVvVNvNNvNvNNNNNNNvNNNNNvNvNNNNN::8'
+                                      }
+                                    ],
+                        'lend' => '200000',
+                        'lchrom' => 'qpac010tig00005764len=450333',
+                        'lstart' => '100000',
+                        'jaccardi' => '0.0806451612903226'
+                      }
+                    ],
+          'linkocc' => 4,
+          'chrom' => 'qpac010tig00005764len=450333',
+          'start' => '300000',
+          'end' => '400000',
+          'cons' => {
+                      'NNNvVNVNvNNNNvvvNVNNvNVNNNNNNVVvvNVNNvvNNNNNNNNNvV' => 26,
+                      'NvNNNNNNNNNNNNNNNNNVvVNNNNvNvNNNNNNvvNNNNNVNNNNNvN' => 5,
+                      'NNvNNNVNvNNNNvvvNNNNNNVNNNNNNvNNNNvNNNNNNNNNNNNNNv' => 6
+                    }
+        };
+$VAR6 = {
+          'link' => [],
+          'linkocc' => 0,
+          'chrom' => 'qpac010tig00005764len=450333',
+          'start' => '400000',
+          'end' => '500000',
+          'cons' => {}
+        };
+$VAR7 = {
+          'link' => [
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNvVNVNvNNNNVvVNVNNvNVNNNNNNVVvvNVVNvVNNNNNNNNNvV::25' => 'NNNvVNvNvNNNNVvVNVNNvNVNNNNNNvVVvvVVNvvNNNNNNNNNvv::8',
+                                        'NNNNvNNNNNNNNvvvNVNNvNVNNNNNNVVVNNVVNvNNNNNNNNNNVV::7' => 'NNNNvNNNNNNNNVvVNVNNvNVNNNNNNvVvNNVVNvNNNNNNNNNNVV::7',
+                                        'VVvVVVVVVvVVVVvVvVNVVVVVVVvVVVVVVvVVVvVvvvVVVvNVVV::50' => 'VVvVVVVVVVVVVVvVvVvVVVVVVVvVVVVVVVVVVvVvVvVVVNvVVV::3'
+                                      }
+                                    ],
+                        'lend' => '200000',
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => '100000',
+                        'jaccardi' => '0.788059701492537'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'VVNNNvNvNvVVvNNNNNNNNNNVVVNVNNNNvNNNvNNNNvNvVNNVNN::14' => 'vVNNNVNVNvVVVNNNNNNNNNNVVvNVNNNNvNNNvNNNNvNvVNNvNN::12'
+                                      }
+                                    ],
+                        'lend' => 400000,
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => 300000,
+                        'jaccardi' => '0.0753363228699551'
+                      }
+                    ],
+          'linkocc' => 2,
+          'chrom' => 'qpac010tig00000175len=540389',
+          'start' => '200000',
+          'end' => '300000',
+          'cons' => {
+                      'VVNNNvNvNvVVvNNNNNNNNNNVVVNVNNNNvNNNvNNNNvNvVNNVNN' => 14,
+                      'NNNNvNNNNNNNNvvvNVNNvNVNNNNNNVVVNNVVNvNNNNNNNNNNVV' => 7,
+                      'VVvVVVVVVvVVVVvVvVNVVVVVVVvVVVVVVvVVVvVvvvVVVvNVVV' => 50,
+                      'NNNvVNVNvNNNNVvVNVNNvNVNNNNNNVVvvNVVNvVNNNNNNNNNvV' => 25
+                    }
+        };
+$VAR8 = {
+          'link' => [
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNVVNVNVNNNNvvVNVNNvNVNNNNNNNvvvNvvNvvNNNNNNNNNVV::41' => 'NNNvVNvNvNNNNVvVNVNNvNVNNNNNNvVVvvVVNvvNNNNNNNNNvv::8'
+                                      }
+                                    ],
+                        'lend' => '200000',
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => '100000',
+                        'jaccardi' => '0.172540768016833'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'vVNNNVNVNvVVVNNNNNNNNNNVVvNVNNNNvNNNvNNNNvNvVNNvNN::12' => 'VVNNNvNvNvVVvNNNNNNNNNNVVVNVNNNNvNNNvNNNNvNvVNNVNN::14'
+                                      }
+                                    ],
+                        'lend' => '300000',
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => '200000',
+                        'jaccardi' => '0.0753363228699552'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'VNVVVVVVVvVVVVvVNVNNvNVNNVNVNVVVVVVVNvVNVVNVNNVNVV::24' => 'VvVVVVVVVvVVVVvVvVNNvNVvNVNVvVVVVVVVNvVvVVNVNNVNVV::9',
+                                        'NNNVVNVNVNNNNvvVNVNNvNVNNNNNNNvvvNvvNvvNNNNNNNNNVV::41' => 'NNNVVNVNVNNNNVvVNVNNvNVNNNNNNNVVvNVVNvVNNNNNNNNNVV::44'
+                                      }
+                                    ],
+                        'lend' => 500000,
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => 400000,
+                        'jaccardi' => '0.27380384676522'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNVVNVNVNNNNvvVNVNNvNVNNNNNNNvvvNvvNvvNNNNNNNNNVV::41' => 'NNNVVNVNVNNNNvVvNVNNvNVNNNNNNNVvvNVVNvVNNNNNNNNNVV::9'
+                                      }
+                                    ],
+                        'lend' => 600000,
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => 500000,
+                        'jaccardi' => '0.110379898294945'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNVVNVNVNNNNvvVNVNNvNVNNNNNNNvvvNvvNvvNNNNNNNNNVV::41' => 'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43'
+                                      }
+                                    ],
+                        'lend' => 100000,
+                        'lchrom' => 'qpac010tig00005445len=129041',
+                        'lstart' => 0,
+                        'jaccardi' => '0.437251984126984'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNVVNVNVNNNNvvVNVNNvNVNNNNNNNvvvNvvNvvNNNNNNNNNVV::41' => 'NNNVvNvNVNNNNvvVNVNNvNVNNNNNNvVvvNVNNNVNNNNNNNNNvV::11'
+                                      }
+                                    ],
+                        'lend' => 200000,
+                        'lchrom' => 'qpac010tig00005445len=129041',
+                        'lstart' => 100000,
+                        'jaccardi' => '0.460674157303371'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNVVNVNVNNNNvvVNVNNvNVNNNNNNNvvvNvvNvvNNNNNNNNNVV::41' => 'NNNVVNvNvNNNNvvVNVNNvNVNNNNNNNvvvNVVNvVNNNNNNNNNVv::53'
+                                      }
+                                    ],
+                        'lend' => 100000,
+                        'lchrom' => 'qpac010tig00005764len=450333',
+                        'lstart' => 0,
+                        'jaccardi' => '0.375756527753761'
+                      }
+                    ],
+          'linkocc' => 7,
+          'chrom' => 'qpac010tig00000175len=540389',
+          'start' => '300000',
+          'end' => '400000',
+          'cons' => {
+                      'NNNVvNvNVNNNNVvVNVNNvNVNNNNNNNVvvNVVNvvNNNNNNNNNVV' => 12,
+                      'VNVVVVVVVvVVVVvVNVNNvNVNNVNVNVVVVVVVNvVNVVNVNNVNVV' => 24,
+                      'vVNNNVNVNvVVVNNNNNNNNNNVVvNVNNNNvNNNvNNNNvNvVNNvNN' => 12,
+                      'NNNVVNVNVNNNNvvVNVNNvNVNNNNNNNvvvNvvNvvNNNNNNNNNVV' => 41
+                    }
+        };
+$VAR9 = {
+          'link' => [
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNVVNVNVNNNNVvVNVNNvNVNNNNNNNVVvNVVNvVNNNNNNNNNVV::44' => 'NNNvVNvNvNNNNVvVNVNNvNVNNNNNNvVVvvVVNvvNNNNNNNNNvv::8',
+                                        'vNNNNVNvNNVvvNNNvNNNNNNNNvNVNNNNvNNNNNNNvvNvNNNVNN::3' => 'vNNNNvNVNvvVvNNNNNNNNNNN.vNVNNNNvNNNNNNNNvNVNNNVNN::3'
+                                      }
+                                    ],
+                        'lend' => '200000',
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => '100000',
+                        'jaccardi' => '0.164859693877551'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'VvVVVVVVVvVVVVvVvVNNvNVvNVNVvVVVVVVVNvVvVVNVNNVNVV::9' => 'VNVVVVVVVvVVVVvVNVNNvNVNNVNVNVVVVVVVNvVNVVNVNNVNVV::24',
+                                        'NNNVVNVNVNNNNVvVNVNNvNVNNNNNNNVVvNVVNvVNNNNNNNNNVV::44' => 'NNNVvNvNVNNNNVvVNVNNvNVNNNNNNNVvvNVVNvvNNNNNNNNNVV::12'
+                                      }
+                                    ],
+                        'lend' => '400000',
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => '300000',
+                        'jaccardi' => '0.512910314517237'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'VVVNNVNVNVVVVNNNVNVVvVNVVVVVVVNNVVNNVvNVVVVVVNVVNN::4' => 'VVVNNVNVNVVVVNNNVNVVvVNVVVVVVVNNvVNNVvNVVVVVVNVVNN::4',
+                                        'NNNVVNVNVNNNNVvVNVNNvNVNNNNNNNVVvNVVNvVNNNNNNNNNVV::44' => 'NNNVVNVNVNNNNvVvNVNNvNVNNNNNNNVvvNVVNvVNNNNNNNNNVV::9',
+                                        'NNNvVNvNvNNNNvvvNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv::103' => 'NNNvvNvNvNNNNvvvNVNNNNVNNNNNNNvNvNNNNNVNNNNNNNNNNV::58'
+                                      }
+                                    ],
+                        'lend' => 600000,
+                        'lchrom' => 'qpac010tig00000175len=540389',
+                        'lstart' => 500000,
+                        'jaccardi' => '0.867816091954023'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NNNvVNvNvNNNNvvvNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv::103' => 'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43'
+                                      }
+                                    ],
+                        'lend' => 100000,
+                        'lchrom' => 'qpac010tig00005445len=129041',
+                        'lstart' => 0,
+                        'jaccardi' => '0.553832687257722'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NvNNNNNNNNNNNN.NNNNVvVNVvNvNVvNNNNNNvvNNNNvNvNNNNN::3' => 'NNNNNNNNNNNNNNNNNNNVvVNVNNvNvvNNNNNNvNNNNNvNvNNNNN::8',
+                                        'NNNVVNVNVNNNNVvVNVNNvNVNNNNNNNVVvNVVNvVNNNNNNNNNVV::44' => 'NNNVVNvNvNNNNvvVNVNNvNVNNNNNNNvvvNVVNvVNNNNNNNNNVv::53',
+                                        'NNNvVNvNvNNNNvvvNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv::103' => 'NNNVVNvNVNNNNvvVNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv::7'
+                                      }
+                                    ],
+                        'lend' => 100000,
+                        'lchrom' => 'qpac010tig00005764len=450333',
+                        'lstart' => 0,
+                        'jaccardi' => '0.756564307966177'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NvNNNNNNNNNNNN.NNNNVvVNVvNvNVvNNNNNNvvNNNNvNvNNNNN::3' => 'NNNNNNNNNNNNNNNNNNNVvVNvNNvNvNNNNNNNvNNNNNvNvNNNNN::8'
+                                      }
+                                    ],
+                        'lend' => 200000,
+                        'lchrom' => 'qpac010tig00005764len=450333',
+                        'lstart' => 100000,
+                        'jaccardi' => '0.0158730158730159'
+                      },
+                      {
+                        'lforce' => [
+                                      {
+                                        'NvNNNNNNNNNNNN.NNNNVvVNVvNvNVvNNNNNNvvNNNNvNvNNNNN::3' => 'NNNNNNNNNNNNNNNNNNNVvvNVNNvNvNNNNNNvvvNNNNvNvNNNvN::10'
+                                      }
+                                    ],
+                        'lend' => 300000,
+                        'lchrom' => 'qpac010tig00005764len=450333',
+                        'lstart' => 200000,
+                        'jaccardi' => '0.016260162601626'
+                      }
+                    ],
+          'linkocc' => 7,
+          'chrom' => 'qpac010tig00000175len=540389',
+          'start' => '400000',
+          'end' => '500000',
+          'cons' => {
+                      'vNNNNVNvNNVvvNNNvNNNNNNNNvNVNNNNvNNNNNNNvvNvNNNVNN' => 3,
+                      'VVVNNVNVNVVVVNNNVNVVvVNVVVVVVVNNVVNNVvNVVVVVVNVVNN' => 4,
+                      'NNNvVNvNvNNNNvvvNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv' => 103,
+                      'VNvNNVNVNvVVVNNNNNNNNNNNNVNVNvNNvVNNNNNNVVNvNNVNNN' => 8,
+                      'NvNNNNNNNNNNNN.NNNNVvVNVvNvNVvNNNNNNvvNNNNvNvNNNNN' => 3,
+                      'NNNVVNVNVNNNNVvVNVNNvNVNNNNNNNVVvNVVNvVNNNNNNNNNVV' => 44,
+                      'VvVVVVVVVvVVVVvVvVNNvNVvNVNVvVVVVVVVNvVvVVNVNNVNVV' => 9
+                    }
+        };
+$VAR10 = {
+           'link' => [
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNVVNVNVNNNNvVvNVNNvNVNNNNNNNVvvNVVNvVNNNNNNNNNVV::9' => 'NNNvVNvNvNNNNVvVNVNNvNVNNNNNNvVVvvVVNvvNNNNNNNNNvv::8'
+                                       }
+                                     ],
+                         'lend' => '200000',
+                         'lchrom' => 'qpac010tig00000175len=540389',
+                         'lstart' => '100000',
+                         'jaccardi' => '0.0868516284680338'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNVVNVNVNNNNvVvNVNNvNVNNNNNNNVvvNVVNvVNNNNNNNNNVV::9' => 'NNNVvNvNVNNNNVvVNVNNvNVNNNNNNNVvvNVVNvvNNNNNNNNNVV::12'
+                                       }
+                                     ],
+                         'lend' => '400000',
+                         'lchrom' => 'qpac010tig00000175len=540389',
+                         'lstart' => '300000',
+                         'jaccardi' => '0.216277488097937'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'VVVNNVNVNVVVVNNNVNVVvVNVVVVVVVNNvVNNVvNVVVVVVNVVNN::4' => 'VVVNNVNVNVVVVNNNVNVVvVNVVVVVVVNNVVNNVvNVVVVVVNVVNN::4',
+                                         'NNNvvNvNvNNNNvvvNVNNNNVNNNNNNNvNvNNNNNVNNNNNNNNNNV::58' => 'NNNvVNvNvNNNNvvvNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv::103',
+                                         'NNNVVNVNVNNNNvVvNVNNvNVNNNNNNNVvvNVVNvVNNNNNNNNNVV::9' => 'NNNVVNVNVNNNNVvVNVNNvNVNNNNNNNVVvNVVNvVNNNNNNNNNVV::44'
+                                       }
+                                     ],
+                         'lend' => '500000',
+                         'lchrom' => 'qpac010tig00000175len=540389',
+                         'lstart' => '400000',
+                         'jaccardi' => '0.867816091954023'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNvvNvNvNNNNvvvNVNNNNVNNNNNNNvNvNNNNNVNNNNNNNNNNV::58' => 'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43'
+                                       }
+                                     ],
+                         'lend' => 100000,
+                         'lchrom' => 'qpac010tig00005445len=129041',
+                         'lstart' => 0,
+                         'jaccardi' => '0.746036494166916'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNvvNvNvNNNNvvvNVNNNNVNNNNNNNvNvNNNNNVNNNNNNNNNNV::58' => 'NNNVVNvNVNNNNvvVNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv::7',
+                                         'NNNVVNVNVNNNNvVvNVNNvNVNNNNNNNVvvNVVNvVNNNNNNNNNVV::9' => 'NNNVVNvNvNNNNvvVNVNNvNVNNNNNNNvvvNVVNvVNNNNNNNNNVv::53'
+                                       }
+                                     ],
+                         'lend' => 100000,
+                         'lchrom' => 'qpac010tig00005764len=450333',
+                         'lstart' => 0,
+                         'jaccardi' => '0.726549792156154'
+                       }
+                     ],
+           'linkocc' => 5,
+           'chrom' => 'qpac010tig00000175len=540389',
+           'start' => '500000',
+           'end' => '600000',
+           'cons' => {
+                       'NNNVVNVNVNNNNvVvNVNNvNVNNNNNNNVvvNVVNvVNNNNNNNNNVV' => 9,
+                       'NNNvvNvNvNNNNvvvNVNNNNVNNNNNNNvNvNNNNNVNNNNNNNNNNV' => 58,
+                       'VVVNNVNVNVVVVNNNVNVVvVNVVVVVVVNNvVNNVvNVVVVVVNVVNN' => 4
+                     }
+         };
+$VAR11 = {
+           'link' => [
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNVVNvNvNNNNVvvNVNNvNVNNNNNNVVvvNVNNvVNNNNNNNNNvV::4' => 'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43'
+                                       }
+                                     ],
+                         'lend' => 100000,
+                         'lchrom' => 'qpac010tig00005445len=129041',
+                         'lstart' => 0,
+                         'jaccardi' => '0.895833333333333'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNVVNvNvNNNNVvvNVNNvNVNNNNNNVVvvNVNNvVNNNNNNNNNvV::4' => 'NNNVvNvNVNNNNvvVNVNNvNVNNNNNNvVvvNVNNNVNNNNNNNNNvV::11'
+                                       }
+                                     ],
+                         'lend' => 200000,
+                         'lchrom' => 'qpac010tig00005445len=129041',
+                         'lstart' => 100000,
+                         'jaccardi' => '1'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNVVNvNvNNNNVvvNVNNvNVNNNNNNVVvvNVNNvVNNNNNNNNNvV::4' => 'NNNvVNVNvNNNNvvvNVNNvNVNNNNNNVVvvNVNNvvNNNNNNNNNvV::26'
+                                       }
+                                     ],
+                         'lend' => 400000,
+                         'lchrom' => 'qpac010tig00005764len=450333',
+                         'lstart' => 300000,
+                         'jaccardi' => '0.702702702702703'
+                       }
+                     ],
+           'linkocc' => 3,
+           'chrom' => 'qpac010tig00005444len=60711',
+           'start' => '0',
+           'end' => '100000',
+           'cons' => {
+                       'NNNVVNvNvNNNNVvvNVNNvNVNNNNNNVVvvNVNNvVNNNNNNNNNvV' => 4
+                     }
+         };
+$VAR12 = {
+           'link' => [
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43' => 'NNNVVNVNVNNNNvvVNVNNvNVNNNNNNNvvvNvvNvvNNNNNNNNNVV::41'
+                                       }
+                                     ],
+                         'lend' => '400000',
+                         'lchrom' => 'qpac010tig00000175len=540389',
+                         'lstart' => '300000',
+                         'jaccardi' => '0.437251984126984'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43' => 'NNNvVNvNvNNNNvvvNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv::103'
+                                       }
+                                     ],
+                         'lend' => '500000',
+                         'lchrom' => 'qpac010tig00000175len=540389',
+                         'lstart' => '400000',
+                         'jaccardi' => '0.553832687257722'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43' => 'NNNvvNvNvNNNNvvvNVNNNNVNNNNNNNvNvNNNNNVNNNNNNNNNNV::58'
+                                       }
+                                     ],
+                         'lend' => '600000',
+                         'lchrom' => 'qpac010tig00000175len=540389',
+                         'lstart' => '500000',
+                         'jaccardi' => '0.746036494166916'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43' => 'NNNVVNvNvNNNNVvvNVNNvNVNNNNNNVVvvNVNNvVNNNNNNNNNvV::4'
+                                       }
+                                     ],
+                         'lend' => '100000',
+                         'lchrom' => 'qpac010tig00005444len=60711',
+                         'lstart' => '0',
+                         'jaccardi' => '0.895833333333333'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43' => 'NNNVvNvNVNNNNvvVNVNNvNVNNNNNNvVvvNVNNNVNNNNNNNNNvV::11'
+                                       }
+                                     ],
+                         'lend' => 200000,
+                         'lchrom' => 'qpac010tig00005445len=129041',
+                         'lstart' => 100000,
+                         'jaccardi' => '0.895833333333333'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43' => 'NNNVVNvNVNNNNvvVNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv::7'
+                                       }
+                                     ],
+                         'lend' => 100000,
+                         'lchrom' => 'qpac010tig00005764len=450333',
+                         'lstart' => 0,
+                         'jaccardi' => '0.0877039627039627'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NvNNNNNNNNNNNNNNNNNVvvNNNNvNvNNNNNNvvvNNNNVNvNNNvN::5' => 'NNNNNNNNNNNNNNNNNNNVvVNvNNvNvNNNNNNNvNNNNNvNvNNNNN::8'
+                                       }
+                                     ],
+                         'lend' => 200000,
+                         'lchrom' => 'qpac010tig00005764len=450333',
+                         'lstart' => 100000,
+                         'jaccardi' => '0.0684931506849315'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43' => 'NNNNvNNNNNNNNNvNNVNNvNvvNNNNNvVVNNvNNvNNNNNNNNNNvv::8'
+                                       }
+                                     ],
+                         'lend' => 300000,
+                         'lchrom' => 'qpac010tig00005764len=450333',
+                         'lstart' => 200000,
+                         'jaccardi' => '0.453473945409429'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NvNNNNNNNNNNNNNNNNNVvvNNNNvNvNNNNNNvvvNNNNVNvNNNvN::5' => 'NvNNNNNNNNNNNNNNNNNVvVNNNNvNvNNNNNNvvNNNNNVNNNNNvN::5',
+                                         'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43' => 'NNNvVNVNvNNNNvvvNVNNvNVNNNNNNVVvvNVNNvvNNNNNNNNNvV::26'
+                                       }
+                                     ],
+                         'lend' => 400000,
+                         'lchrom' => 'qpac010tig00005764len=450333',
+                         'lstart' => 300000,
+                         'jaccardi' => '0.837837837837838'
+                       }
+                     ],
+           'linkocc' => 9,
+           'chrom' => 'qpac010tig00005445len=129041',
+           'start' => '0',
+           'end' => '100000',
+           'cons' => {
+                       'NvNNNNNNNNNNNNNNNNNVvvNNNNvNvNNNNNNvvvNNNNVNvNNNvN' => 5,
+                       'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV' => 43
+                     }
+         };
+$VAR13 = {
+           'link' => [
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNVvNvNVNNNNvvVNVNNvNVNNNNNNvVvvNVNNNVNNNNNNNNNvV::11' => 'NNNVVNVNVNNNNvvVNVNNvNVNNNNNNNvvvNvvNvvNNNNNNNNNVV::41'
+                                       }
+                                     ],
+                         'lend' => '400000',
+                         'lchrom' => 'qpac010tig00000175len=540389',
+                         'lstart' => '300000',
+                         'jaccardi' => '0.460674157303371'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNVvNvNVNNNNvvVNVNNvNVNNNNNNvVvvNVNNNVNNNNNNNNNvV::11' => 'NNNVVNvNvNNNNVvvNVNNvNVNNNNNNVVvvNVNNvVNNNNNNNNNvV::4'
+                                       }
+                                     ],
+                         'lend' => '100000',
+                         'lchrom' => 'qpac010tig00005444len=60711',
+                         'lstart' => '0',
+                         'jaccardi' => '1'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNVvNvNVNNNNvvVNVNNvNVNNNNNNvVvvNVNNNVNNNNNNNNNvV::11' => 'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43'
+                                       }
+                                     ],
+                         'lend' => '100000',
+                         'lchrom' => 'qpac010tig00005445len=129041',
+                         'lstart' => '0',
+                         'jaccardi' => '0.895833333333333'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNVvNvNVNNNNvvVNVNNvNVNNNNNNvVvvNVNNNVNNNNNNNNNvV::11' => 'NNNvVNVNvNNNNvvvNVNNvNVNNNNNNVVvvNVNNvvNNNNNNNNNvV::26'
+                                       }
+                                     ],
+                         'lend' => 400000,
+                         'lchrom' => 'qpac010tig00005764len=450333',
+                         'lstart' => 300000,
+                         'jaccardi' => '0.702702702702703'
+                       }
+                     ],
+           'linkocc' => 4,
+           'chrom' => 'qpac010tig00005445len=129041',
+           'start' => '100000',
+           'end' => '200000',
+           'cons' => {
+                       'NNNVvNvNVNNNNvvVNVNNvNVNNNNNNvVvvNVNNNVNNNNNNNNNvV' => 11
+                     }
+         };
+$VAR14 = {
+           'link' => [
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNVVNvNvNNNNvvVNVNNvNVNNNNNNNvvvNVVNvVNNNNNNNNNVv::53' => 'NNNvVNvNvNNNNVvVNVNNvNVNNNNNNvVVvvVVNvvNNNNNNNNNvv::8'
+                                       }
+                                     ],
+                         'lend' => '200000',
+                         'lchrom' => 'qpac010tig00000175len=540389',
+                         'lstart' => '100000',
+                         'jaccardi' => '0.555296856810244'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNVVNvNvNNNNvvVNVNNvNVNNNNNNNvvvNVVNvVNNNNNNNNNVv::53' => 'NNNVvNvNVNNNNVvVNVNNvNVNNNNNNNVvvNVVNvvNNNNNNNNNVV::12'
+                                       }
+                                     ],
+                         'lend' => '400000',
+                         'lchrom' => 'qpac010tig00000175len=540389',
+                         'lstart' => '300000',
+                         'jaccardi' => '0.701986754966887'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNNNNNNNNNNNNNNNNNVvVNVNNvNvvNNNNNNvNNNNNvNvNNNNN::8' => 'NvNNNNNNNNNNNN.NNNNVvVNVvNvNVvNNNNNNvvNNNNvNvNNNNN::3',
+                                         'NNNVVNvNVNNNNvvVNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv::7' => 'NNNvVNvNvNNNNvvvNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv::103',
+                                         'NNNVVNvNvNNNNvvVNVNNvNVNNNNNNNvvvNVVNvVNNNNNNNNNVv::53' => 'NNNVVNVNVNNNNVvVNVNNvNVNNNNNNNVVvNVVNvVNNNNNNNNNVV::44'
+                                       }
+                                     ],
+                         'lend' => '500000',
+                         'lchrom' => 'qpac010tig00000175len=540389',
+                         'lstart' => '400000',
+                         'jaccardi' => '0.756564307966177'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNVVNvNVNNNNvvVNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv::7' => 'NNNvvNvNvNNNNvvvNVNNNNVNNNNNNNvNvNNNNNVNNNNNNNNNNV::58',
+                                         'NNNVVNvNvNNNNvvVNVNNvNVNNNNNNNvvvNVVNvVNNNNNNNNNVv::53' => 'NNNVVNVNVNNNNvVvNVNNvNVNNNNNNNVvvNVVNvVNNNNNNNNNVV::9'
+                                       }
+                                     ],
+                         'lend' => '600000',
+                         'lchrom' => 'qpac010tig00000175len=540389',
+                         'lstart' => '500000',
+                         'jaccardi' => '0.726549792156154'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNVVNvNVNNNNvvVNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv::7' => 'NNNvvNvNvNNNNvvvNVNNvNVNNNNNNvVvvNvNNNvNNNNNNNNNvV::43'
+                                       }
+                                     ],
+                         'lend' => '100000',
+                         'lchrom' => 'qpac010tig00005445len=129041',
+                         'lstart' => '0',
+                         'jaccardi' => '0.0877039627039627'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNNNNNNNNNNNNNNNNNVvVNVNNvNvvNNNNNNvNNNNNvNvNNNNN::8' => 'NNNNNNNNNNNNNNNNNNNVvVNvNNvNvNNNNNNNvNNNNNvNvNNNNN::8'
+                                       }
+                                     ],
+                         'lend' => 200000,
+                         'lchrom' => 'qpac010tig00005764len=450333',
+                         'lstart' => 100000,
+                         'jaccardi' => '0.0672268907563025'
+                       },
+                       {
+                         'lforce' => [
+                                       {
+                                         'NNNNNNNNNNNNNNNNNNNVvVNVNNvNvvNNNNNNvNNNNNvNvNNNNN::8' => 'NNNNNNNNNNNNNNNNNNNVvvNVNNvNvNNNNNNvvvNNNNvNvNNNvN::10'
+                                       }
+                                     ],
+                         'lend' => 300000,
+                         'lchrom' => 'qpac010tig00005764len=450333',
+                         'lstart' => 200000,
+                         'jaccardi' => '0.0747663551401869'
+                       }
+                     ],
+           'linkocc' => 7,
+           'chrom' => 'qpac010tig00005764len=450333',
+           'start' => '0',
+           'end' => '100000',
+           'cons' => {
+                       'NNNVVNvNVNNNNvvVNVNNNNVNNNNNNNVNvNNNNNVNNNNNNNNNNv' => 7,
+                       'VNVNNVNVNVvVVNNNVNVNNNNNNVvVNNNNvVNNNNNVVVNVNNVVNN' => 11,
+                       'NNNVVNvNvNNNNvvVNVNNvNVNNNNNNNvvvNVVNvVNNNNNNNNNVv' => 53,
+                       'NNNNNNNNNNNNNNNNNNNVvVNVNNvNvvNNNNNNvNNNNNvNvNNNNN' => 8
+                     }
+         };
