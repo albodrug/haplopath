@@ -1,3 +1,8 @@
+# INSTALLATION REQUIREMENTS #
+Haplopath runs on Linux machines (tested on CentOS release 6.10 with 32 cores and 128 GB memory). 
+It makes use of Perl libraries usually available with Perl 5.10 distributions. 
+In addition it appeals to the system to use bcftools (view and query), vcf-annotate, vcftools, and sed. 
+
 # RUNNING HAPLOPATH #
 
 To see the help of haplopath_connect.pl:
