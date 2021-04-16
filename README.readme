@@ -55,6 +55,9 @@ The graph is in dot langage and can be simply passed to neato or dot interpreter
 
 You can find the png of the test data in test_output/.
 
+# SAMPLINGS	
+
+Samplings used for testing and benchmarking come from thale cress 1135 accessions vcf file and are found in the thalecress_samplings folder.
 
 ########
 For questions email alexandrina.bodrug@boku.ac.at
