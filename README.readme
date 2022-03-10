@@ -1,3 +1,9 @@
+# ASSOCIATED SCIENTIFIC PUBLICATION
+Bodrug-Schepers A, Stralis-Pavese N, Buerstmayr H, Dohm JC, Himmelbauer H. 
+Quinoa genome assembly employing genomic variation for guided scaffolding. 
+Theor Appl Genet. 2021 Nov;
+DOI: 10.1007/s00122-021-03915-x
+
 # INSTALLATION REQUIREMENTS #
 Haplopath runs on Linux machines (tested on CentOS release 6.10 with 32 cores and 128 GB memory). 
 It makes use of Perl libraries usually available with Perl 5.10 distributions. 
